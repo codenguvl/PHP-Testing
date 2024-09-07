@@ -67,7 +67,6 @@ BEGIN
         - Kiểm tra lại dữ liệu (xác minh tên, định dạng email, định dạng số điện thoại, xác minh tên công ty và nội dung tin nhắn)
 
         IF dữ liệu hợp lệ:
-            - Lưu thông tin liên hệ vào cơ sở dữ liệu
             - Gửi phản hồi thành công cho người dùng kèm thông tin người dùng vừa nhập
 
         ELSE:
